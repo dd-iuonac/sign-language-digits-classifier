@@ -1,12 +1,10 @@
 from os import listdir
-
 import numpy as np
 from scipy.misc import imread, imresize
 from keras.utils import to_categorical
 from sklearn.model_selection import train_test_split
 from keras import models, layers
 import matplotlib.pyplot as plt
-import tensorflow as tf
 from numpy.random import seed
 
 #set the seed

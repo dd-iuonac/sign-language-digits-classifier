@@ -1,6 +1,15 @@
-# sign-language-digits-classifier
-
-# Sign Language Digits Dataset
+# Sign Language Digits Classification with Neural Networks
+## How To Use
+Clone or download the repo.
+```bash
+git clone https://github.com/dd-iuonac/sign-language-digits-classifier.git
+```
+Make sure you have installed the following libraries: numpy, keras, sklearn, tensorflow.
+Navigate to sign-language-digits-classifier folder. Run the script with Python 3:
+```bash
+python3 main.py
+```
+### Sign Language Digits Dataset
 The dataset used is an open-source dataset prepared by [Turkey Ankara Ayrancı Anadolu High School](http://ayrancianadolu.meb.k12.tr) Students
 
 ### Dataset Preview:
@@ -22,7 +31,15 @@ The dataset used is an open-source dataset prepared by [Turkey Ankara Ayrancı A
 For processing the dataset, Arda Mavi's 'get_dataset' method has been modified and used. 
 Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.github.com/ardamavi/a7d06ff8a315308771c70006cf494d69)
 
-#Results of the Classifier
-|<img src="Results/Figure1.png">|<img src="Results/Figure2.png">|<img src="Results/Figure3.png">|<img src="Results/Figure4.png">|<img src="Results/Figure5.png">|
-|:-:|:-:|:-:|:-:|:-:|
-|Figure 1|Figure 2|Figure 3|Figure 4|Figure 5|
+# Results of the Classifier
+
+|<img src="Results/Figure1.png">|
+| Figure 1 |
+|<img src="Results/Figure2.png">|
+| Figure 2 |
+|<img src="Results/Figure3.png">|
+| Figure 3 |
+|<img src="Results/Figure4.png">|
+| Figure 4 |
+|<img src="Results/Figure5.png">|
+| Figure 5 |
