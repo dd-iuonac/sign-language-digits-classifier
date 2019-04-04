@@ -33,13 +33,8 @@ Arda Mavi's GitHub Gist: [gist.github.com/ardamavi/get_dataset.py](https://gist.
 
 # Results of the Classifier
 
-|<img src="Results/Figure1.png">|
-| Figure 1 |
-|<img src="Results/Figure2.png">|
-| Figure 2 |
-|<img src="Results/Figure3.png">|
-| Figure 3 |
-|<img src="Results/Figure4.png">|
-| Figure 4 |
-|<img src="Results/Figure5.png">|
-| Figure 5 |
+<img src="Results/Figure1.png">
+<img src="Results/Figure2.png">
+<img src="Results/Figure3.png">
+<img src="Results/Figure4.png">
+<img src="Results/Figure5.png">
